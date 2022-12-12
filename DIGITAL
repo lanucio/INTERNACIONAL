@@ -578,7 +578,6 @@ https://ice55.securenetsystems.net/DASH62
 #EXTINF:-1 tvg-name="Dash Radio | Afrobeats"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/118/logos/d0918be2-d818-4bd5-b41a-f9ee9a44e7a0.png"tvg-chno="549"group-title="📻 Dash Radio",Dash Radio | Afrobeats
 https://ice55.securenetsystems.net/DASH64
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://hochu.tv/images/brazzers_tv_europe.png",Brazzer TV
 http://51.81.245.90/LIVE/brazzerstveurope/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hochu.tv/images/o-la-la.png",O-la la
