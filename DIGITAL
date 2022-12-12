@@ -578,3 +578,55 @@ https://ice55.securenetsystems.net/DASH62
 #EXTINF:-1 tvg-name="Dash Radio | Afrobeats"tvg-id="Radio.Channel.(RADIO).ca"tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/118/logos/d0918be2-d818-4bd5-b41a-f9ee9a44e7a0.png"tvg-chno="549"group-title="📻 Dash Radio",Dash Radio | Afrobeats
 https://ice55.securenetsystems.net/DASH64
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/brazzers_tv_europe.png",Brazzer TV
+http://51.81.245.90/LIVE/brazzerstveurope/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/o-la-la.png",O-la la
+http://51.81.245.90/LIVE/olala/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/dorcel-tv.png",Dorcel
+http://51.81.245.90/LIVE/dorceltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/hustler_hd.png",Hustler HD
+http://51.81.245.90/LIVE/hustlerhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/private_tv.png",Private TV
+http://51.81.245.90/LIVE/privatetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/redlight-hd.png",Redlight HD
+http://51.81.245.90/LIVE/redlighthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/nuart-tv.png",Nuart TV
+http://51.81.245.90/LIVE/nuarttv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/blue-hustler.png",Blue Hustler
+http://51.81.245.90/LIVE/hustlertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/dusk-tv.png",Dusk TV
+http://51.81.245.90/LIVE/dusktv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/jasmin-tv.png",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w990842587.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/playboy_tv.png",Playboy TV
+http://51.81.245.90/LIVE/playboytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/candy-tv.png",Candy
+http://51.81.245.90/LIVE/candy/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/babes-tv.png",Babe TV
+http://51.81.245.90/LIVE/babestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/vivid-red.png",Vivid Red
+http://51.81.245.90/LIVE/vividred/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/oh-ah.png",OX-AX HD
+http://51.81.245.90/LIVE/ohahhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/erox-hd.png",Erox HD
+http://51.81.245.90/LIVE/eroxhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/penthouse-2.png",Penthouse Quickies
+http://51.81.245.90/LIVE/penthouse2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-2.png",Fap TV 2
+http://51.81.245.90/LIVE/faptv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-3.png",Fap TV 3
+http://51.81.245.90/LIVE/faptv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-4.png",Fap TV 4
+http://51.81.245.90/LIVE/faptv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-anal.png",Fap TV Anal
+http://51.81.245.90/LIVE/faptvanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-parody.png",Fap TV Parody
+http://51.81.245.90/LIVE/faptvparody/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-teens.png",Fap TV Teen
+http://51.81.245.90/LIVE/faptvteens/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-lesbian.png",Fap TV Lesbian
+http://51.81.245.90/LIVE/faptvlesbian/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/fap-tv-compilation.png",Fap TV Compilation
+http://51.81.245.90/LIVE/faptvcompilation/playlist.m3u8
+
